@@ -1,0 +1,62 @@
+.main-content-wrapper{
+    background-image: radial-gradient(circle farthest-corner at 20% 0%, #404040, #000000);
+}
+.main-content-wrapper > .annoying{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.main-content-wrapper > .annoying > .textarea-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.main-content-wrapper > .annoying > .textarea-wrapper > .paragraph1{
+    font-size: 2em;
+    font-weight: lighter;
+}
+.main-content-wrapper > .annoying > .textarea-wrapper > .paragraph1 > .bold-text{
+    font-weight: 900;
+}
+
+.main-content-wrapper > .annoying > .textarea-wrapper > .paragraph2{
+    color: #a8a8a8;
+    font-size: 1.5em;
+}
+
+.main-content-wrapper > .annoying > .textarea-wrapper > .btn-wrapper > .sign-btn{
+    background-color: #49c374;
+    color:black;
+    font-size: 1.5em;
+    font-weight: 700;
+    border-color: #49c374;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.main-content-wrapper > .annoying > .textarea-wrapper > .btn-wrapper > .education-btn{
+    background-color: black;
+    color:white;
+    font-size: 1.5em;
+    font-weight: 700;
+    border-color: black;
+    border-radius: 4px;
+    padding: 10px;
+}
+/* pictureside starts */
+.main-content-wrapper > .annoying > .picture-side-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content-wrapper > .annoying > .picture-side-wrapper > .paragraph3{
+    font-weight: 900;
+}
+
+.main-content-wrapper > .annoying > .picture-side-wrapper > .paragraph3 > .Blue-text{
+    color: #67c1e3; 
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.spacer20{
+    height: 20px;
+    width: 21px;
+}
+.spacer50x70{
+    height: 50px;
+    width: 70px
+}
+.spacer100{
+    height: 100px;
+    width: 100%;
+}
+.spacer40x40{
+    height: 40px;
+    width: 40px;
+}
+.spacer40{
+    height: 40px;
+    width: 100%;
+}
